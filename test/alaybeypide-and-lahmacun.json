@@ -1,0 +1,148 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/kplb/alaybey-pide-and-lahmacun",
+  "google": "",
+  "products": [
+    {
+      "name": "Lahmacun",
+      "price": "130 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "195 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405293.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "195 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "170 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "130 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Kaşarlı Pide",
+      "price": "225 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405281.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pide",
+      "price": "200 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405283.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Yumurtalı Pide",
+      "price": "200 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405284.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Pide",
+      "price": "210 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405286.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pide",
+      "price": "180 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405287.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pide",
+      "price": "290 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405288.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Kaşarlı Pide",
+      "price": "200 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Pide",
+      "price": "150 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405290.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "195 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405293.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "170 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405294.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "195 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "170 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "280 TL",
+      "description": "Kuşbaşılı, kaşarlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66757061.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza",
+      "price": "225 TL",
+      "description": "Odun ateşinde pişirilir."
+    },
+    {
+      "name": "Sucuklu Kaşarlı Pizza",
+      "price": "220 TL",
+      "description": "Sucuk, kaşar peyniri, garnitür"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66742114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66744892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (25 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66757063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405594.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

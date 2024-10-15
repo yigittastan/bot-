@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "playwright": "^1.48.0",
+    "puppeteer": "^23.5.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.5"
+  },
+  "scripts": {}
+}
